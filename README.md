@@ -9,6 +9,8 @@ I am a Software Engineer living in South Florida.
 * Apple Computers
 * Docker
 * Kubernetes
+* Linux
+* Raspberry Pi
 
 ### Programming Languages
 * C#
