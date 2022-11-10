@@ -9,6 +9,8 @@ I am a Software Engineer living in South Florida.
 * Swift
 * Docker
 * Kubernetes
+* Comic Books
+* 3D Printing
 
 ## How to reach me:
 
