@@ -4,11 +4,19 @@ I am a Software Engineer living in South Florida.
 
 ## Interests
 
+### Technologies
+
 * Apple Computers
-* C#
-* Swift
 * Docker
 * Kubernetes
+
+### Programming Languages
+* C#
+* Swift
+* Rust
+
+### Other
+
 * Comic Books
 * 3D Printing
 
