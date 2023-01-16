@@ -6,9 +6,10 @@ I am a Software Engineer living in South Florida.
 
 ### Technologies
 
-* Apple Computers
+* .NET Core
 * Docker
 * Kubernetes
+* Apple Computers
 * Linux
 * Raspberry Pi
 
@@ -25,8 +26,6 @@ I am a Software Engineer living in South Florida.
 ## How to reach me:
 
 Email: rick.ekle@gmail.com
-
-Twitter: [@rekle](https://twitter.com/rekle)
 
 LinkedIn: [Richard Ekle](https://www.linkedin.com/in/richardekle/)
 
