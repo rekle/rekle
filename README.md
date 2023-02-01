@@ -27,11 +27,6 @@ I am a Software Engineer living in South Florida.
 
 Email: rick.ekle@gmail.com
 
-LinkedIn: [Richard Ekle](https://www.linkedin.com/in/richardekle/)
-
-Blog: [Ekle.us](https://ekle.us)
-
-
 <!--
 **rekle/rekle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
