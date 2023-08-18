@@ -22,6 +22,7 @@ I am a Software Engineer living in South Florida.
 
 * Comic Books
 * 3D Printing
+* LEGO
 
 ## How to reach me:
 
